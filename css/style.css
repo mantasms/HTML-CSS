@@ -1,3 +1,32 @@
-.h-70 {
-  height: 70vh;
+.h-512px {
+  height: 512px;
+  background-color: #777;
+}
+
+.nav-color {
+background-color: #292b2c!important;
+}
+
+.align-left {
+    text-align: left!important;
+}
+
+.align-right {
+    text-align: right!important;
+}
+
+.carousel-caption {
+    bottom: 100px!important;
+}
+
+.background-777 {
+    background-color: #777!important;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.margin-auto {
+    margin: auto;
 }
